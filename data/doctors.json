@@ -2,7 +2,7 @@
     {
         "doctorNumber": 1,
         "actor": "William Hartnell",
-        "image": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/firstdoctor.jpg",
+        "image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/firstdoctor.jpg",
         "when": "1963-1966",
         "description": "The one that started it all! A deceptively doddering and tetchy old man that was more than a bit dangerous – although he mellowed a bit after his granddaughter Susan left the TARDIS, leaving him more emotionally vulnerable.",
         "gadget": "A ring with a blue stone",
@@ -12,7 +12,7 @@
     {
         "doctorNumber": 2,
         "actor": "Patrick Troughton",
-        "image": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/seconddoctor.jpg",
+        "image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/seconddoctor.jpg",
         "when": "1966-1969",
         "description": "A comical fellow on the surface hiding a far more serious, calculating mind, this impish fellow or “cosmic hobo” was a passionate defender of the innocent and the beginning of the Doctor we’re much more familiar with today.",
         "gadget": "A recorder (a kind of flute)",
@@ -22,7 +22,7 @@
     {
         "doctorNumber": 3,
         "actor": "Jon Pertwee",
-        "image": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/thirddoctor.jpg",
+        "image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/thirddoctor.jpg",
         "when": "1970-1974",
         "description": "Earthbound for most of his life, this Doctor favored cars, fancy clothes, and some fine wine and cheese, as well as a well-placed Venusian karate chop. Allied with the paramilitary organization UNIT as their Scientific Advisor, he was a fatherly figure and a deeply moral man with an “old young face.”",
         "gadget": "A sprightly yellow roadster named “Bessie”",
@@ -32,7 +32,7 @@
     {
         "doctorNumber": 4,
         "actor": "Tom Baker",
-        "image": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/fourthdoctor.jpg",
+        "image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/fourthdoctor.jpg",
         "when": "1974-1981",
         "description": "Still the definitive Doctor for many, this long-running incarnation was the perfect combination of goofiness and gravitas, with an iconic Bohemian image, booming voice, and endearing devotion to his traveling companions.",
         "gadget": "A multi-colored (later mostly burgundy) scarf that surely should trip him up…and sometimes did; a bag of jelly babies",
@@ -42,7 +42,7 @@
     {
         "doctorNumber": 5,
         "actor": "Peter Davison",
-        "image": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/fifthdoctor.jpg",
+        "image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/fifthdoctor.jpg",
         "when": "1981-1984",
         "description": "No, not “Davidson” (to paraphrase Commander Data from another venerable sci-fi franchise, one is his name; the other is not). This energetic, breathless incarnation was more vulnerable than most, and one of the most human. Despite appearing young with a “pleasant open face,” he was of course an old being in a youthful form.",
         "gadget": " A sprig of celery pinned to the lapel of his cricket-y ensemble",
@@ -52,7 +52,7 @@
     {
         "doctorNumber": 6,
         "actor": "Colin Baker",
-        "image": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/sixthdoctor.jpg",
+        "image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/sixthdoctor.jpg",
         "when": "1984-1986",
         "description": "At first harder to like than many incarnations with a coat of many colors that could cause serious eye strain, the Sixth Doctor was equally heroic and caring but exhibited far less patience and actively fought with his long-time companion Peri. In audio adventures this often-erratic incarnation has truly come into his own.",
         "gadget": "An array of cat badges on the ugliest frock coat you’ve ever seen",
@@ -62,7 +62,7 @@
     {
         "doctorNumber": 7,
         "actor": "Sylvester McCoy",
-        "image": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/seventhdoctor.jpg",
+        "image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/seventhdoctor.jpg",
         "when": "1987-1996",
         "description": "At first the most buffoonish incarnation to date, this Doctor darkened into a master (no, not him) manipulator playing a massive game of chess across time and space. He was…Time’s Champion (in the novels, anyway)! C",
         "gadget": "An umbrella with a red question mark handle coordinating with (at least early on) an ugly sweater covered in similar question marks",
@@ -72,7 +72,7 @@
     {
         "doctorNumber": 8,
         "actor": "Paul McGann",
-        "image": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/eighthdoctor.jpg",
+        "image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/eighthdoctor.jpg",
         "when": "1996, 2013",
         "description": "The beginnings of a more romantic streak in the Doctor could be found in this incarnation, a soft-spoken, deeply feeling fellow that seemed more rested in his temperament than other Doctors but still retained enthusiasm for what might be waiting around the next corner.",
         "gadget": "Mostly items borrowed from the past like jelly babies and a sonic screwdriver",
@@ -82,7 +82,7 @@
     {
         "doctorNumber": 9,
         "actor": "John Hurt",
-        "image": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/wardoctor.jpg",
+        "image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/wardoctor.jpg",
         "when": "2013",
         "description": "This incarnation eschewed the name of the Doctor in order to fight in the Time War, and did so for his entire lifetime. But despite the dark nature of his work, he still had a childlike spark that shone through the weariness in moments of discovery and triumph.",
         "gadget": "The Time Lord doomsday device called the Moment, which took the form of a future companion named Rose",
@@ -92,7 +92,7 @@
     {
         "doctorNumber": 10,
         "actor": "Christopher Eccleston",
-        "image": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/ninthdoctor.jpg",
+        "image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/ninthdoctor.jpg",
         "when": "2005",
         "description": "No, not “Ecclestone” (the Fifth and the Ninth endure a lot of misspellings out there in fandom). This troubled incarnation struggled with the memory of the Time War’s apocalyptic ending but found new purpose in his friendship with Rose. Perhaps no Doctor could be as happy as he when things went right.",
         "gadget": "A leather jacket that practically screams “stay away”",
@@ -102,7 +102,7 @@
     {
         "doctorNumber": 11,
         "actor": "David Tennant",
-        "image": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/tenthdoctor.jpg",
+        "image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/tenthdoctor.jpg",
         "when": "2005-2010",
         "description": "Borrowing some of the youth and energy of his Fifth form, this Doctor was a true romantic, developing a deep relationship with Rose and grinning his way through every adventure. But when the Time War reared its head, watch out – \"Sad Doctor\" would show up, followed on occasion by the \"Time Lord Triumphant!\"",
         "gadget": "3D glasses useful for spotting Void radiation",
@@ -112,7 +112,7 @@
     {
         "doctorNumber": 12,
         "actor": "Matt Smith",
-        "image": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/eleventhdoctor.jpg",
+        "image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/eleventhdoctor.jpg",
         "when": "2010-2013",
         "description": "With an unruly mop of hair, a tendency to break things, and a walk that frequently burst into a pirouette, the wild and crazy and sometimes naïve ball of energy known as Eleven (or ‘Ven for short) had some of the most convoluted cosmically challenging adventures of the Doctor’s many lives.",
         "gadget": "A detached Cyberhead companion called “Handles”",
@@ -122,7 +122,7 @@
     {
         "doctorNumber": 13,
         "actor": "Peter Capaldi",
-        "image": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/twelfthdoctor.jpg",
+        "image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2015/08/twelfthdoctor.jpg",
         "when": "2014-Present",
         "description": "It’s early days yet, but this incarnation has an older outer form than we’ve seen in some time, yet sometimes seems more youthful than ever. He’s a bit petulant, not comfortable with demonstrations of affection, but he’s learning to re-embrace a human approach via companion Clara.",
         "gadget": "Maybe his sunglasses in Season 9",
