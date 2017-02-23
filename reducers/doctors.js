@@ -26,7 +26,7 @@ const doctors = (state = { doctors: doctorsData, showDoctor: false }, action) =>
                 doctors: sortBy(doctorsData, 'actor')
             })
 
-        case 'ORDER_BY_NAME':
+        case 'ORDER_BY_NUMBER':
             return Object.assign({}, state, {
                 doctors: sortBy(doctorsData, 'doctorNumber')
             })
