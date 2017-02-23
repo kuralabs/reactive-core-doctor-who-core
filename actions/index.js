@@ -11,6 +11,12 @@ export const selectDoctor = (doctor) => {
     }
 }
 
+export const showDoctorslist = () => {
+    return {
+        type: 'SHOW_DOCTORS_LIST'
+    }
+}
+
 export const orderByName = () => {
     return {
         type: 'ORDER_BY_NAME'

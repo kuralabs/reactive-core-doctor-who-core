@@ -2,7 +2,7 @@ import sortBy from 'lodash/sortBy'
 
 const doctorsData = require('../data/doctors.json')
 
-const doctors = (state = { doctors: doctorsData }, action) => {
+const doctors = (state = { doctors: doctorsData, showDoctor: false }, action) => {
     switch(action.type) {
         case 'GET_DOCTORS':
             return Object.assign({}, state, {
@@ -11,7 +11,14 @@ const doctors = (state = { doctors: doctorsData }, action) => {
 
         case 'SELECT_DOCTOR':
             return Object.assign({}, state, {
-                doctor: action.doctor
+                doctor: action.doctor,
+                showDoctor: true
+            })
+
+        case 'SHOW_DOCTORS_LIST':
+            return Object.assign({}, state, {
+                doctors: doctorsData,
+                showDoctor: false
             })
 
         case 'ORDER_BY_NAME':
