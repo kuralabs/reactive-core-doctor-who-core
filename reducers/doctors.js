@@ -17,7 +17,6 @@ const doctors = (state = { doctors: doctorsData, showDoctor: false }, action) =>
 
         case 'SHOW_DOCTORS_LIST':
             return Object.assign({}, state, {
-                doctors: doctorsData,
                 showDoctor: false
             })
 
