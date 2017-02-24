@@ -3,7 +3,7 @@ Doctor Who? (Reactive Core) - Reactive Core Architecture Demo
 ==========================================================
 
 This is the core module demo for the **"Reactive Core Architecture"**
-explained in this article.
+explained in this article:
 
 
 Architecture Overview
@@ -18,10 +18,15 @@ This architecture is composed by three modules:
 
 1. **The core:** Includes the business logic and the state of the application. This component is implemented using the Redux framework. Code reuse is done via this module. It's added to the mobile app and to the web app as a git submodule. This module is in the repository you are seeing right now.
 
+
 2. **The mobile app:** Implemented using the React Native framework.
+
+    See: https://github.com/caroaguilar/reactive-core-doctor-who-mobile
+
 
 3. **The web application:** Implemented using the React framework.
 
+    See: https://github.com/caroaguilar/reactive-core-doctor-who-web
 
 
 Core Module
